@@ -1,0 +1,5 @@
+numpy
+scipy
+pillow
+opencv-python   # webcam (optional: images work without it)
+matplotlib      # demo.py figures only
