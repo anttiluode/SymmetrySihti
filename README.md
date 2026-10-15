@@ -89,7 +89,7 @@ The purifier is heat flow on a weighted pixel graph (`lattice`: all weights 1; `
 
 **Every Sihti residue is exactly the divergence of the current that flowed during its time window.** The residue stack is a record of where the charge went.
 
-**Energy ledger:** ‖f₀‖² = Σ E_k + ‖f_core‖² with every E_k ≥ 0, for the fluctuation f = x − mean. The mean is the global charge and never dissipates; on the cat it is 84% of the total energy.
+**Energy ledger:** ‖f₀‖² = Σ E_k + ‖f_core‖² with every E_k ≥ 0, for the fluctuation f = x − mean. The mean is the global charge and never dissipates; on the cat it is 92% of the total energy.
 
 ![currents](figures/b_noether_currents.png)
 
